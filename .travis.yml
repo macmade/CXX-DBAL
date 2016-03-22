@@ -1,3 +1,4 @@
 language: objective-c
 script:
 - xctool -project "CXX-DBAL.xcodeproj" -scheme "CXX-DBAL-Test" build
+
